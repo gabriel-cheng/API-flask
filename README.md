@@ -5,7 +5,7 @@
     </li>
     <ul>
         <li>
-            O projeto trata-se de uma simples API que utiliza a linguagem Python e os Frameworks Pandas e Flask como ferramenta principais, além da IDE Visual Studio Code. A função da API é fazer a análise de uma base de dados(Pandas), e mostrar para um usuário da API todos estes dados recolhidos da base.
+            O projeto trata-se de uma simples API que utiliza a linguagem Python e os Frameworks Pandas e Flask como ferramentas principais, além da IDE Visual Studio Code para o desenvolvimento. A API será construída utilizando o Flask e utilizaremos o Pandas para analisar os dados de uma base. A API permitirá que uma pessoa puxe os dados recolhidos e analisados da base e visualise-os.
         </li>
     </ul>
     <p>
